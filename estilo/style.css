@@ -62,10 +62,11 @@ ex: main > article > p {}
   color: white;
   font-family: var(--fonte-padrao);
   font-size: 1.2em;
-  padding: 0 10 50 10;
+  padding-left: 10px;
+  padding-bottom: 30px;
+  padding-right: 10px;
   max-width: 500px;
   margin: auto;
-  margin-bottom: 10px;
    }
  nav{
   background-color: var(--cor5);
